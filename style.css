@@ -495,9 +495,7 @@ justify-content: space-around;
     align-items: center;
 }
 
-#music-player>div div{
-    /* align-self: center; */
-}
+
 
 #music-player i {
     margin-left: 20px;
